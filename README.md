@@ -1,0 +1,2 @@
+# Recepty (PyWorking: Git prakticky)
+
