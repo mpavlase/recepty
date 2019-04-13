@@ -1,2 +1,2 @@
-# Recepty (PyWorking: Git praktcky)
+# Recepty (PyWorking: Git prakticky)
 
